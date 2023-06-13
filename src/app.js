@@ -50,7 +50,7 @@ function calculateHealth(){
 }
 
 function timerlive(){
-    const startday = new Date("2023-04-03 00:00");
+    const startday = new Date("2023-06-13 13:00");
     const today = new Date();
     const maxhealth = dday - startday;
     const health = dday - today;
